@@ -1,6 +1,6 @@
 \# certi-i-2026
 
-Hello World!!!
+var saludo = esDeDia ? Buenos Dias : Buenas Noches
 
 estes es un proyecto
 
