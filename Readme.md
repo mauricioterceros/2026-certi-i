@@ -1,6 +1,6 @@
 \# certi-i-2026
 
-Hello World!!!
+var greetings = isMorning ? Good Morning : Good Afternoon
 
 estes es un proyecto
 
