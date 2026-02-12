@@ -1,9 +1,9 @@
 var greetings;
 if (locale == 'es') {
-	greetings = esDeDia ? Buenos Dias : Buenas Noches
+	greetings = esDeDia ?  'Buenos Dias' : 'Buenas Noches'
 
-} else if (locale == 'en' && locale == 'us') {
-	greetings = isMorning ? Good Morning : Good Afternoon
+} else if (locale == 'en' && locale == 'us'|| locale == 'br') {
+	greetings = isMorning ? 'Good Morning' : 'Good Afternoon'
 
 }
 
