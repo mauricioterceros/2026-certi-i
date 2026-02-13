@@ -1,3 +1,7 @@
 # certi-i-2026
 estes es un proyecto
 
+
+## Pre-requirements
+- Node.js +20.0
+- Net +6.0
