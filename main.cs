@@ -1,3 +1,3 @@
-public class Main {
-	public Main() {}
+public class MyClass {
+	public MyClass() {}
 }
