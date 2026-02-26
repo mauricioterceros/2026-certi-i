@@ -1,15 +1,7 @@
-\# certi-i-2026
-
-var greetings;
-if (locale == 'es') {
-	greetings = esDeDia ? Buenos Dias : Buenas Noches
-
-} else if (locale == 'en') {
-	greetings = isMorning ? Good Morning : Good Afternoon
-
-}
-
-alert(greetings);
-
+# certi-i-2026
 estes es un proyecto
 
+
+## PRE REQUIREMENTS.
+- Node.js +20.0
+- Net +6.0
