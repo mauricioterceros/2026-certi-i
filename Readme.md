@@ -2,6 +2,6 @@
 estes es un proyecto
 
 
-## Pre-requirements
+## PRE REQUIREMENTS.
 - Node.js +20.0
 - Net +6.0
